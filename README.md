@@ -31,9 +31,10 @@ Please do **not** post public download links to copyrighted recordings. We can f
 
 ## Files
 
-- [`TRACKLIST.md`](TRACKLIST.md) — all 204 tracks, album grouping, durations, Spotify IDs and ISRCs
+- [`TRACKLIST.md`](TRACKLIST.md) — overview of all 21 albums, dates, durations and Spotify album IDs
 - [`MISSING-TRACKS.md`](MISSING-TRACKS.md) — current recovery status
-- [`metadata/psyvelle_spotify.csv`](metadata/psyvelle_spotify.csv) — original Spotify playlist export
+
+The original Spotify CSV export with track-level IDs and ISRCs is retained as the verification source and can be added to the repository later.
 
 ## Important note
 
