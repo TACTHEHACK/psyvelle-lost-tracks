@@ -7,10 +7,11 @@ This project documents recordings released under the artist name **Psyvelle** be
 ## Current status
 
 - **21 albums / 204 tracks identified**
-- **All 21 albums are now available in the private collection**
-- **Catalogue preservation completed**
+- **20 of 21 albums are available in the private collection**
+- **IRON OAK is still missing in full: 8 tracks**
 
-`✅ OK` means the complete album is present in the private collection.
+`✅ OK` means the complete album is present in the private collection.  
+`❌ MISSING` means the album is not present in the private collection.
 
 ## Album covers and availability
 
@@ -28,7 +29,7 @@ This project documents recordings released under the artist name **Psyvelle** be
 <tr>
 <td align="center"><img src="https://i.scdn.co/image/ab67616d0000b273552d76c1275d9181446ea609" width="220"><br><strong>Frequency of the Mind</strong><br>✅ OK</td>
 <td align="center"><img src="https://i.scdn.co/image/ab67616d0000b2739f4e9c0df799cb41766ed37d" width="220"><br><strong>Here, My Dear</strong><br>✅ OK</td>
-<td align="center"><img src="https://i.scdn.co/image/ab67616d0000b27389c57536df3a816e831038c5" width="220"><br><strong>IRON OAK</strong><br>✅ OK</td>
+<td align="center"><img src="https://i.scdn.co/image/ab67616d0000b27389c57536df3a816e831038c5" width="220"><br><strong>IRON OAK</strong><br>❌ MISSING — 8 tracks</td>
 </tr>
 <tr>
 <td align="center"><img src="https://i.scdn.co/image/ab67616d0000b273e14fa39471d94796008dec76" width="220"><br><strong>I Want You</strong><br>✅ OK</td>
@@ -52,6 +53,19 @@ This project documents recordings released under the artist name **Psyvelle** be
 </tr>
 </table>
 
+## Missing album: IRON OAK
+
+The complete album is still being sought:
+
+1. The Golden Hall — 5:47
+2. Echoes in the Deep — 4:43
+3. Ancient Runes — 5:52
+4. The Stone Watcher — 5:08
+5. Buried Crown — 8:26
+6. Crystal Cave — 5:58
+7. March of the Golems — 3:47
+8. The Mountain Sleeps — 5:44
+
 ## Known identifiers
 
 - [Spotify artist profile](https://open.spotify.com/artist/5mvavjIutBHVd8G7ilINK3)
@@ -59,9 +73,9 @@ This project documents recordings released under the artist name **Psyvelle** be
 - Copyright shown in Apple Music: **© 2026 PV Studio**
 - Composer shown in Apple Music metadata: **Anthony Coleman**
 
-## Project result
+## Project status
 
-The known Psyvelle catalogue has now been preserved in the private collection. Further information about **Psyvelle**, **PV Studio**, **Anthony Coleman** or the origin of the project is still welcome in [Issue #1](https://github.com/TACTHEHACK/psyvelle-lost-tracks/issues/1).
+Most of the known Psyvelle catalogue has been preserved in the private collection. The complete album **IRON OAK** is still missing. Further information about **Psyvelle**, **PV Studio**, **Anthony Coleman**, **IRON OAK** or the origin of the project is welcome in [Issue #1](https://github.com/TACTHEHACK/psyvelle-lost-tracks/issues/1).
 
 Please do not post public download links to copyrighted recordings.
 
